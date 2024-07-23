@@ -5,7 +5,7 @@ import stateImg from './assets/state-mgmt.png';
 
 export const CORE_CONCEPTS = [
     {
-        image: componentsImg,
+        img: componentsImg,
         title: 'Components',
         description:
             'The core UI building block - compose the user interface by combining multiple components.',
